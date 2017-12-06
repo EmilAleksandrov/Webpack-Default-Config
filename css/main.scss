@@ -1,0 +1,18 @@
+$redColor: red;
+$greenColor: green;
+
+body {
+  background: $greenColor;
+}
+
+.one {
+  background: $redColor;
+}
+
+.two {
+  background: $greenColor;
+}
+
+div > p {
+  background: $greenColor;
+}
